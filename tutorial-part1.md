@@ -161,4 +161,4 @@ As you can see, we have also set some variables in session. We will need these t
 
 For more info, you can see the facebook documentation on authentication [here](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow).
 
-And that's it for today, the part 2 of the tutorial is available here!
+And that's it for today, the [part 2](https://github.com/aniri/tutorial-facebook-signup/blob/master/tutorial-part2.md) of the tutorial is available here!
