@@ -1,5 +1,7 @@
 # How to make website registration easier using facebook accounts part 2
 
+:exclamation: old tutorial, needs updates :exclamation:
+
 ## Extra features
 
 Once logged into their accounts, the users can see some info about their friends – the total number of facebook friends they have and how many of their friends are using our app.
