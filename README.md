@@ -1,6 +1,4 @@
 # tutorial-facebook-signup
 old tutorial moved to github :) - playing with facebook signup
 
-demo: http://aniri.ro/tutorial-facebook-signup/
-
-tutorial: http://aniri.ro/geek/tutorials/how-to-make-website-registration-easier-using-facebook-accounts/
+tutorial: [part 1](https://github.com/aniri/tutorial-facebook-signup/blob/master/tutorial-part1.md)
